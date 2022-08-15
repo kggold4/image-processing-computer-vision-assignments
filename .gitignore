@@ -1,2 +1,13 @@
-.idea/*
-__pycache__/
+image-processing-ex1/.idea/*
+image-processing-ex1/__pycache__/
+image-processing-ex2/.idea/*
+image-processing-ex2/__pycache__/*
+image-processing-ex2/original/*
+image-processing-ex2/temp.txt
+image-processing-ex2/filtered_image_my.jpg
+image-processing-ex2/filtered_image_OpenCV.jpg
+image-processing-ex2/original_image_grayscale.jpg
+image-processing-ex2/Ex2.zip
+image-processing-ex3/.idea/*
+image-processing-ex3/original/*
+image-processing-ex3/__pycache__/*
