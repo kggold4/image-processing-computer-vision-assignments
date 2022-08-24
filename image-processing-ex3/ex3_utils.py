@@ -4,7 +4,7 @@ import cv2
 from numpy.linalg import LinAlgError
 import matplotlib.pyplot as plt
 
-MY_ID = 208980359
+MY_ID = 0
 MIN_MSE = 1000
 STEPS = 100
 FULL_DEGREES = 360
